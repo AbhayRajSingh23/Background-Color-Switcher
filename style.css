@@ -1,0 +1,26 @@
+body{
+    margin-top: 50px;
+    text-align: center;
+    background-color:antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button{
+    border:solid 2px black;
+    width:100px;
+    height: 100px;
+    display: inline-block;
+}
+
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
