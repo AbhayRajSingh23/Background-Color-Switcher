@@ -44,3 +44,6 @@ buttons.forEach(function(button) {
         }
     });
 });
+```
+## Site Access
+For the Live site [click here](https://abhayrajsingh23.github.io/Background-Color-Switcher/)
